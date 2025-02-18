@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Roshan Shah</h1>
-<h3 align="center">🚀 Computer Science & Mathematics | Data Science | Machine Learning | Quantitative Finance</h3>
+<h1 align="center">👋 Hi, I'm Roshan </h1>
+<h3 align="center">🚀 Computer Science & Mathematics | Machine Learning | Quantitative Finance</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=roshan-h-shah&label=Profile%20Views&color=blue&style=flat-square" />
